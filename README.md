@@ -3,8 +3,8 @@
 
 <div align="center">
 
-# 🎲 Match Card Jam
-
+# 🎲 Match Jam
+![Status](https://img.shields.io/badge/Status-In_Active_Development-2ea44f?style=flat-square)
 ![Unity](https://img.shields.io/badge/Unity_6-black?style=flat-square&logo=unity)
 ![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-blue?style=flat-square)
 ![Built With AI](https://img.shields.io/badge/Workflow-AI--Assisted-purple?style=flat-square)
