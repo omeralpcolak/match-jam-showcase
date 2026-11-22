@@ -53,8 +53,8 @@ https://github.com/user-attachments/assets/9b25f83a-fbce-4bef-8769-a09d6d0b51ac
 
 ## ✨ Key Features
 
-* **Tactile 3D Objects:** Physics-based piles featuring playing cards, 3D dice, and expandable tabletop item sets with smooth 7-slot dock animations.
-* **Dynamic Obstacles:** Frozen (Ice) items, countdown Bombs, and Mystery items.
+* **Tactile 3D Objects:** Physics-based piles featuring playing cards, 3D dice, and expandable tabletop item sets with smooth dock animations.
+* **Dynamic Obstacles:** Frozen (Ice) items, Bombs, and Mystery items.
 * **5 Strategic Boosters:** Magnet, Freeze Time, Shuffle Fan, Clear Dock, and Hint Spotlight.
 * **Progression & Meta:** Saga level map, life system, audio feedback, and haptics.
 
