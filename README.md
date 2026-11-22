@@ -19,7 +19,7 @@
 
 | 3D Object Matching | Power-Ups | Obstacles & Modifiers |
 | :---: | :---: | :---: |
-| <img src="Media/matching.gif" width="230" /> | <img src="Media/powerups.gif" width="230" /> | <img src="Media/obstacles.gif" width="230" /> |
+| https://github.com/user-attachments/assets/03112d92-891e-4bec-ad19-dc525e25c4da
 | *Cards, dice & 3D physics piles* | *Magnet, Freeze, Shuffle, Clear & Hint* | *Ice, Bomb & Mystery items* |
 
 ---
