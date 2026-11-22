@@ -17,12 +17,35 @@
 
 ## 🎮 Gameplay Preview
 
-| 3D Object Matching | Power-Ups | Obstacles & Modifiers |
-| :---: | :---: | :---: |
-| https://github.com/user-attachments/assets/03112d92-891e-4bec-ad19-dc525e25c4da
-| https://github.com/user-attachments/assets/463dcc2b-3201-44a0-9098-6a13d0ce68d1
-| *Cards, dice & 3D physics piles* | *Magnet, Freeze, Shuffle, Clear & Hint* | *Ice, Bomb & Mystery items* |
+<table>
+  <tr>
+    <th align="center" width="33%">3D Object Matching</th>
+    <th align="center" width="33%">Power-Ups</th>
+    <th align="center" width="33%">Obstacles & Modifiers</th>
+  </tr>
+  <tr>
+    <td align="center">
 
+https://github.com/user-attachments/assets/03112d92-891e-4bec-ad19-dc525e25c4da
+
+</td>
+    <td align="center">
+
+https://github.com/user-attachments/assets/463dcc2b-3201-44a0-9098-6a13d0ce68d1
+
+</td>
+    <td align="center">
+
+<!-- 3. videoyu sürükleyip tam bu satıra bırak (üstte ve altta 1 boş satır kalsın) -->
+
+</td>
+  </tr>
+  <tr>
+    <td align="center"><em>Cards, dice & 3D physics piles</em></td>
+    <td align="center"><em>Magnet, Freeze, Shuffle, Clear & Hint</em></td>
+    <td align="center"><em>Ice, Bomb & Mystery items</em></td>
+  </tr>
+</table>
 ---
 
 ## ✨ Key Features
