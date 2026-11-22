@@ -20,6 +20,7 @@
 | 3D Object Matching | Power-Ups | Obstacles & Modifiers |
 | :---: | :---: | :---: |
 | https://github.com/user-attachments/assets/03112d92-891e-4bec-ad19-dc525e25c4da
+| https://github.com/user-attachments/assets/463dcc2b-3201-44a0-9098-6a13d0ce68d1
 | *Cards, dice & 3D physics piles* | *Magnet, Freeze, Shuffle, Clear & Hint* | *Ice, Bomb & Mystery items* |
 
 ---
