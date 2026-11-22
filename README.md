@@ -1,3 +1,6 @@
+
+
+
 <div align="center">
 
 # 🎲 Match Card Jam
@@ -36,7 +39,7 @@ https://github.com/user-attachments/assets/463dcc2b-3201-44a0-9098-6a13d0ce68d1
 </td>
     <td align="center">
 
-<!-- 3. videoyu sürükleyip tam bu satıra bırak (üstte ve altta 1 boş satır kalsın) -->
+https://github.com/user-attachments/assets/9b25f83a-fbce-4bef-8769-a09d6d0b51ac
 
 </td>
   </tr>
