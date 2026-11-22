@@ -49,6 +49,7 @@ https://github.com/user-attachments/assets/9b25f83a-fbce-4bef-8769-a09d6d0b51ac
     <td align="center"><em>Ice, Bomb & Mystery items</em></td>
   </tr>
 </table>
+
 ---
 
 ## ✨ Key Features
@@ -67,6 +68,3 @@ https://github.com/user-attachments/assets/9b25f83a-fbce-4bef-8769-a09d6d0b51ac
 
 ---
 
-## 📬 Contact
-
-* **Ömer Alp Çolak** — [LinkedIn](#) • [GitHub](#)
